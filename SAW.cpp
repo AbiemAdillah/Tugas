@@ -78,6 +78,6 @@ int main(){
 		}
 		cout<<endl;
 	}
-        cout << enld;
+        cout << endl;
 }
 
